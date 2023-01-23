@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/orafael93/article-preview-frontend-mentor)
-- Live Site URL: [Add live site URL here](https://orafael93.github.io/article-preview-frontend-mentor/src/)
+- Solution URL: [https://github.com/orafael93/article-preview-frontend-mentor](https://github.com/orafael93/article-preview-frontend-mentor)
+- Live Site URL: [https://orafael93.github.io/article-preview-frontend-mentor/src/](https://orafael93.github.io/article-preview-frontend-mentor/src/)
 
 ### Built with
 
